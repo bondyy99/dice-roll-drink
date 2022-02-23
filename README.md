@@ -1,6 +1,8 @@
 # dice-roll-drink
 
-Convoluted dice drinking game, hence the documentation lol
+Convoluted dice drinking game, whenever I suggested it with people before, the rules were too long to explain and people wouldn't lose interest halfway through me explaining.
+
+That's where I came up with the idea for a dice roll app that has the prompts for who has to drink built it. Enjoy!
 
 RULES:
 
@@ -16,3 +18,4 @@ FUTURE UPDATES:
 
 - 'Rolling dice' animation when user prompts a roll
 - Formatting for phone screens
+- More obvious prompts (i.e. background colour flashing green on 'special' rolls, and red on 'shit' ones)
