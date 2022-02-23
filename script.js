@@ -99,6 +99,6 @@ document.querySelector(".roll").addEventListener("click", function () {
   let die1 = Math.trunc(Math.random() * 6 + 1);
   let die2 = Math.trunc(Math.random() * 6 + 1);
   console.log(die1, die2);
-  console.log(checkDice(die1, die2));
+  document.querySelector(".heDoes").textContent = checkDice(die1, die2);
   diceRoll(die1, die2);
 });
