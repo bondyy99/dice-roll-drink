@@ -14,6 +14,10 @@ RULES:
 - 'Shit roll' - anything that doesn't make anyone else drink (i.e. anything except the above); ends the roller's turn and roller drinks
 - 'Buffalo' - everyone must drink with their non-dominant hand, anyone caught not doing so has to finish their drink and get a new one; requires the accusor to call them out by saying buffalo
 
+FIXES:
+
+- Dice images are repeating themselves inside the div on certain resolutions, need to find a fix...
+
 FUTURE UPDATES:
 
 - 'Rolling dice' animation when user prompts a roll
