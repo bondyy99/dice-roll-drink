@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap");
+
+/* * {
+  border: 1px solid red;
+  padding: none;
+} */
+
+body {
+  background-color: #000000;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: white;
+  font-family: "Oswald";
+}
+
+.title {
+  font-size: 80px;
+  display: inline;
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.dice {
+  height: 15rem;
+  width: 15rem;
+  background-image: url("dice-faces/1-roll.png");
+  background-size: contain;
+}
+
+.final {
+  display: flex;
+  justify-content: center;
+}
+
+.roll {
+  width: auto;
+  height: 10rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  background-color: #000000;
+  color: white;
+  font-family: "Oswald";
+  font-size: 50px;
+  border: none;
+}
+
+.roll:hover {
+  background-color: white;
+  color: #000000;
+}
