@@ -15,3 +15,4 @@ RULES:
 FUTURE UPDATES:
 
 - 'Rolling dice' animation when user prompts a roll
+- Formatting for phone screens
