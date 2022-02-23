@@ -33,7 +33,7 @@ main {
 .dice {
   height: 15rem;
   width: 15rem;
-  background-image: url("dice-faces/1-roll.png");
+  background-image: url("diceFaces/1roll.png");
   background-size: contain;
 }
 
