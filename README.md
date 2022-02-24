@@ -23,3 +23,4 @@ FUTURE UPDATES:
 - 'Rolling dice' animation when user prompts a roll
 - Formatting for phone screens
 - More obvious prompts (i.e. background colour flashing green on 'special' rolls, and red on 'shit' ones)
+- Higher quality dice face PNGs
